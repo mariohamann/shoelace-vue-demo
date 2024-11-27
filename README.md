@@ -1,5 +1,9 @@
 # Vue 3 + TypeScript + Vite
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+This repo implemented what is described here: [https://shoelace.style/frameworks/vue]
 
-Learn more about the recommended Project Setup and IDE Support in the [Vue Docs TypeScript Guide](https://vuejs.org/guide/typescript/overview.html#project-setup).
+1. `pnpm i`
+2. Open `src/components/HelloWorld.vue`
+3. Hover over `sl-button`
+
+When reading [https://shoelace.style/frameworks/vue#types], this should provide "autocomplete information and type safety for your components". But it doesn't. Where is the bug?
